@@ -1,7 +1,6 @@
-# UAS 
 
 ### Nama  : Edi Permadi  
-### NIM  : 175410046
+
 
 
 # 1. Membuat Image  
